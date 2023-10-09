@@ -11,7 +11,7 @@ questionary = "^2.0.1"
 prompt-toolkit = "3.0.36"
 
 [tool.poetry.scripts]
-better-cz = 'better_cz.main:main'
+better-cz = 'better_cz.cz:main'
 
 
 [build-system]
