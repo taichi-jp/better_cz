@@ -2,7 +2,7 @@ from commit_prompt import CommitPrompt
 import subprocess
 
 
-def main():
+def cz():
     commit_prompt = CommitPrompt()
 
     try:
@@ -22,4 +22,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    cz()
